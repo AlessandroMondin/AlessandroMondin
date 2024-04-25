@@ -17,7 +17,7 @@
 <br />
 
 Hi, I'm Alessandro Mondin, a full-stack machine learning engineer and data scientist. 
-Apart from my passion for software engineering I really enjoy swimming and music 🏊🎶
+Apart from my passion for software engineering I really enjoy swimming and music (indie & electronic) 🏊🎶
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlreGE1aWpuano2N2JmaGV2OTdnMHA1dWNlYXZydmpmNGhyMml2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0mnnGcVblF8bAI/giphy.gif" />
