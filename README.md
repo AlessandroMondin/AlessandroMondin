@@ -3,21 +3,25 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/alessandro-mondin-mleng/">
-<img align="left" alt="Alessandro Mondin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-<a href="https://medium.com/@alessandromondin">
-  <svg align="left" alt="Alessandro Mondin" width="22px" height="22px" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd">
-    <path d="M2.846 6.887c.03-.295-.083-.586-.303-.784l-2.24-2.7v-.403h6.958l5.378 11.795 4.728-11.795h6.633v.403l-1.916 1.837c-.165.126-.247.333-.213.538v13.498c-.034.204.048.411.213.537l1.871 1.837v.403h-9.412v-.403l1.939-1.882c.19-.19.19-.246.19-.537v-10.91l-5.389 13.688h-.728l-6.275-13.688v9.174c-.052.385.076.774.347 1.052l2.521 3.058v.404h-7.148v-.404l2.521-3.058c.27-.279.39-.67.325-1.052v-10.608z"/>
-  </svg>
-</a>
+<table border="1">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/alessandro-mondin-mleng/">
+        <img align="left" alt="Alessandro Mondin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+      </a>
+      <a href="https://medium.com/@alessandromondin">
+        <img align="left" alt="Alessandro Mondin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <br />
 
 Hi, I'm Alessandro Mondin, a full-stack machine learning engineer and data scientist. 
-Apart from my passion for software engineering I really enjoy swimming and music (indie & electronic) 🏊🎶
+Apart from my passion for software engineering, I am a swimmer 🏊 and I love indie & electronic music 🎶
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlreGE1aWpuano2N2JmaGV2OTdnMHA1dWNlYXZydmpmNGhyMml2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0mnnGcVblF8bAI/giphy.gif" />
