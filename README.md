@@ -29,7 +29,7 @@ Apart from my passion for software engineering, I am a swimmer 🏊 and I love i
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m working on a fantasy footaball chatbot, working on the back-end rn.
+- 🌱 Building Arete, a dating app that aims to make meeting new people more genuine.
 - 👯 Part of Developer Community.
 - 📫 How to reach me: text me on Linkedin!
 
