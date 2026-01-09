@@ -29,7 +29,7 @@ Apart from my passion for software engineering, I am a swimmer 🏊 and I love i
 
 **Talking about Personal Stuffs:**
 
-- 🌱 Building Arete, a dating app that aims to make meeting new people more genuine.
+- 🌱 Developer of Arete, a dating app that makes online dating more genuine.
 - 👯 Part of Developer Community.
 - 📫 How to reach me: text me on Linkedin!
 
